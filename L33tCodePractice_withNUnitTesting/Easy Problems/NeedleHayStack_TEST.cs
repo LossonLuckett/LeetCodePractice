@@ -7,10 +7,8 @@ namespace StrStr_Test
 {
     public class NeedleInHaystack
     {
-
         public static int StrStr(string hay, string needle)
         {
-
             if (needle.Length == 0)
                 return 0;
 
@@ -47,8 +45,5 @@ namespace StrStr_Test
             int result = NeedleInHaystack.StrStr(haystack, needle);
             Assert.AreEqual(expected, result);
         }
-
-
     }
-
 }

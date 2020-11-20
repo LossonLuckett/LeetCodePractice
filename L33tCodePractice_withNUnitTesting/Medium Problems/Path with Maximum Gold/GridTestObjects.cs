@@ -17,7 +17,6 @@ namespace L33tCodePractice_withNUnitTesting.Medium_Problems.Path_with_Maximum_Go
             return grid;
         }
 
-
         public static int[][] Grid_1234_0089_1253_0089()
         {
             int[][] grid =

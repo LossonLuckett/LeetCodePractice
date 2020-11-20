@@ -7,13 +7,11 @@ namespace L33tCodePractice_withNUnitTesting.Easy_Problems
 {
     public class LuckyIntegerProblem
     {
-
-        public int FindLucky(int[] arr)
+       public int FindLucky(int[] arr)
         {
             Dictionary<int,int> frequencyTable = new Dictionary<int,int>();
             foreach(int i in arr)
             {
-                
                if(frequencyTable.ContainsKey(i))
                 {                 
                     frequencyTable[i]++;
@@ -24,7 +22,6 @@ namespace L33tCodePractice_withNUnitTesting.Easy_Problems
                 }            
             }
 
-
             HashSet<int> LuckyIntergers = new HashSet<int>();
             foreach(KeyValuePair<int, int> i in frequencyTable)
             {
@@ -33,7 +30,6 @@ namespace L33tCodePractice_withNUnitTesting.Easy_Problems
                     LuckyIntergers.Add(i.Value);
                 }
             }
-
             return returnLargest(LuckyIntergers);
 
         }
@@ -50,7 +46,6 @@ namespace L33tCodePractice_withNUnitTesting.Easy_Problems
                 {
                     largest = i;
                 }
-
             }
             return largest;
         }
