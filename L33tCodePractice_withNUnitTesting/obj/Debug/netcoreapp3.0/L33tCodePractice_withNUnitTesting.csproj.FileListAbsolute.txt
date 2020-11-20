@@ -90,6 +90,10 @@ C:\Users\losso\source\repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\o
 C:\Users\losso\source\repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\obj\Debug\netcoreapp3.0\L33tCodePractice_withNUnitTesting.csproj.CopyComplete
 C:\Users\losso\source\repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\obj\Debug\netcoreapp3.0\L33tCodePractice_withNUnitTesting.dll
 C:\Users\losso\source\repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\obj\Debug\netcoreapp3.0\L33tCodePractice_withNUnitTesting.pdb
+C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\obj\Debug\netcoreapp3.0\L33tCodePractice_withNUnitTesting.csprojAssemblyReference.cache
+C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\obj\Debug\netcoreapp3.0\L33tCodePractice_withNUnitTesting.AssemblyInfoInputs.cache
+C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\obj\Debug\netcoreapp3.0\L33tCodePractice_withNUnitTesting.AssemblyInfo.cs
+C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\obj\Debug\netcoreapp3.0\L33tCodePractice_withNUnitTesting.csproj.CoreCompileInputs.cache
 C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
 C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
 C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\bin\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
@@ -176,9 +180,6 @@ C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesti
 C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\obj\Debug\netcoreapp3.0\L33tCodePractice_withNUnitTesting.AssemblyInfoInputs.cache
-C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\obj\Debug\netcoreapp3.0\L33tCodePractice_withNUnitTesting.AssemblyInfo.cs
-C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\obj\Debug\netcoreapp3.0\L33tCodePractice_withNUnitTesting.csproj.CoreCompileInputs.cache
 C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\obj\Debug\netcoreapp3.0\L33tCodePractice_withNUnitTesting.csproj.CopyComplete
 C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\obj\Debug\netcoreapp3.0\L33tCodePractice_withNUnitTesting.dll
 C:\Users\lluckett1\Source\Repos\L33tCodePractice\L33tCodePractice_withNUnitTesting\obj\Debug\netcoreapp3.0\L33tCodePractice_withNUnitTesting.pdb

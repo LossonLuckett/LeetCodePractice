@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UteENeIHS6dImr+qnJLYmMpXIgFcAGagTgTCT9Q4MinoDNIg+o+1fh6S8CpXX212IFqWtQAOfK3ZbyENDmXVgw==",
+  "dgSpecHash": "wRAmLWricIpifk3+UcmMlIDo8PzCcJYipNLySNooislL9pHL8gx4HFxI2CK0yxRbyD9H8W7d/5i+iBb7L7YSKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lluckett1\\source\\repos\\L33tCodePractice\\L33tCodePractice_withNUnitTesting\\L33tCodePractice_withNUnitTesting.csproj",
+  "projectFilePath": "C:\\Users\\lluckett1\\Source\\Repos\\L33tCodePractice\\L33tCodePractice_withNUnitTesting\\L33tCodePractice_withNUnitTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lluckett1\\.nuget\\packages\\microsoft.codecoverage\\16.2.0\\microsoft.codecoverage.16.2.0.nupkg.sha512",
     "C:\\Users\\lluckett1\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

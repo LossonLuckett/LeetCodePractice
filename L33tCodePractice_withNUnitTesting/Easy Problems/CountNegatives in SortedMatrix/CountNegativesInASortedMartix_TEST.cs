@@ -11,8 +11,9 @@ namespace L33tCodePractice_withNUnitTesting.Easy_Problems
     {
         public int CountNegatives(int[,] grid)
         {
-            int count = 0;
 
+            //Array is sorted in decending order
+            int count = 0;
             for (int i = 0; i < grid.GetLength(0); i++)
             {
                 for (int k = 0; k < grid.GetLength(1); k++)

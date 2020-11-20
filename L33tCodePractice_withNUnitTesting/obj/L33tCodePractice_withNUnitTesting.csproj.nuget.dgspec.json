@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lluckett1\\source\\repos\\L33tCodePractice\\L33tCodePractice_withNUnitTesting\\L33tCodePractice_withNUnitTesting.csproj": {}
+    "C:\\Users\\lluckett1\\Source\\Repos\\L33tCodePractice\\L33tCodePractice_withNUnitTesting\\L33tCodePractice_withNUnitTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lluckett1\\source\\repos\\L33tCodePractice\\L33tCodePractice_withNUnitTesting\\L33tCodePractice_withNUnitTesting.csproj": {
+    "C:\\Users\\lluckett1\\Source\\Repos\\L33tCodePractice\\L33tCodePractice_withNUnitTesting\\L33tCodePractice_withNUnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lluckett1\\source\\repos\\L33tCodePractice\\L33tCodePractice_withNUnitTesting\\L33tCodePractice_withNUnitTesting.csproj",
+        "projectUniqueName": "C:\\Users\\lluckett1\\Source\\Repos\\L33tCodePractice\\L33tCodePractice_withNUnitTesting\\L33tCodePractice_withNUnitTesting.csproj",
         "projectName": "L33tCodePractice_withNUnitTesting",
-        "projectPath": "C:\\Users\\lluckett1\\source\\repos\\L33tCodePractice\\L33tCodePractice_withNUnitTesting\\L33tCodePractice_withNUnitTesting.csproj",
+        "projectPath": "C:\\Users\\lluckett1\\Source\\Repos\\L33tCodePractice\\L33tCodePractice_withNUnitTesting\\L33tCodePractice_withNUnitTesting.csproj",
         "packagesPath": "C:\\Users\\lluckett1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lluckett1\\source\\repos\\L33tCodePractice\\L33tCodePractice_withNUnitTesting\\obj\\",
+        "outputPath": "C:\\Users\\lluckett1\\Source\\Repos\\L33tCodePractice\\L33tCodePractice_withNUnitTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lluckett1\\AppData\\Roaming\\NuGet\\NuGet.Config",
