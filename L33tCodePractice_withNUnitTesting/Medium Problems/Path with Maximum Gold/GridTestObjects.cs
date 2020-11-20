@@ -36,12 +36,8 @@ namespace L33tCodePractice_withNUnitTesting.Medium_Problems.Path_with_Maximum_Go
             {
                 new int[]  {1,1},
                 new int[]  {0,0},
-                
             };
             return grid;
         }
-
-
-
     }
 }
