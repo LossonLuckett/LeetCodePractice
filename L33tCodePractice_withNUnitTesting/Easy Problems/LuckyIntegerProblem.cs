@@ -54,8 +54,6 @@ namespace L33tCodePractice_withNUnitTesting.Easy_Problems
             }
             return largest;
         }
-
-
     }
 
     [TestFixture]
@@ -71,8 +69,5 @@ namespace L33tCodePractice_withNUnitTesting.Easy_Problems
             LuckyIntegerProblem instance = new LuckyIntegerProblem();
             Assert.AreEqual(expected, instance.FindLucky(arr));          
         }
-
-
-
     }
 }

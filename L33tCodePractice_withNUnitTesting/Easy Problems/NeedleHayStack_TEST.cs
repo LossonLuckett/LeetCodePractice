@@ -15,11 +15,8 @@ namespace StrStr_Test
                 return 0;
 
             int checkLength = needle.Length;
-
-
             for (int i = 0; i < hay.Length; i++)
             {
-
                 if (hay[i] == needle[0])
                 {
                     for (int j = 0; j < needle.Length - 1; j++)
@@ -31,11 +28,9 @@ namespace StrStr_Test
                     }
                     return i;
                 }
-;
             }
             return -1;
         }
-
     }
 
     [TestFixture]
@@ -49,13 +44,8 @@ namespace StrStr_Test
         [TestCase(1, "098", "9")]
         public void StrStr_TEST(int expected, string haystack, string needle)
         {
-
             int result = NeedleInHaystack.StrStr(haystack, needle);
-
             Assert.AreEqual(expected, result);
-
-
-
         }
 
 
