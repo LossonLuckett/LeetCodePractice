@@ -43,7 +43,7 @@ namespace L33tCodePractice_withNUnitTesting.Medium_Problems.Path_with_Maximum_Go
                     visitedLocations[i][j] = false;
                 }
             }
-            return visitedLocations; 
+            return visitedLocations;
         }
 
         public int findMaxGold(int[][] grid, int i, int j, int rowLength, int colLength, bool[][] visited)
