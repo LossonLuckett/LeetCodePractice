@@ -12,7 +12,6 @@ namespace L33tCodePractice_withNUnitTesting.Medium_Problems.Path_with_Maximum_Go
             if (grid == null || grid.Length == 0)
                 return 0;
 
-
             int max = 0;
             int rowLength = grid.Length;
             int colLength = grid[0].Length;
