@@ -26,8 +26,7 @@ namespace L33tCodePractice_withNUnitTesting.Medium_Problems.Path_with_Maximum_Go
                     }
                 }        
             }
-            return max;
-           
+            return max;  
         }
 
         public bool[][] InitializeVisitedLocations(int[][] grid)
@@ -92,11 +91,6 @@ namespace L33tCodePractice_withNUnitTesting.Medium_Problems.Path_with_Maximum_Go
             int expected = 2;
             int[][] grid = GridTestObjects.Grid_11_00();
             Assert.AreEqual(expected, instance.GetMaximumGold(grid));
-
         }
-
-
-
-
     }
 }
